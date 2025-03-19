@@ -21,6 +21,7 @@ of other UNIX targets. The simple steps to build HyperCache are:
 
 
 .. code-block:: shell
+  
   ./build/qemu-system-x86_64 -machine pc,accel=kvm,usb=off -enable-kvm \
   -smp 2 -cpu host \
   -m 2G,slots=2,maxmem=4G \
