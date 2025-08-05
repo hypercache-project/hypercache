@@ -2,7 +2,7 @@
 README
 ===========
 
-HyperCache: Efficient Page Cache Virtualization for Containerized Image Service
+HyperCache: An Efficient Page Cache Virtualization Architecture for Containerized Image Service
 
 
 Building
